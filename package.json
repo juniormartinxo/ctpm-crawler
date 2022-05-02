@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/juniormartinxo/ctpm_crawler#readme",
   "dependencies": {
-    "cypress": "^9.6.0",
     "dotenv": "^16.0.0",
     "nodemon": "^2.0.16",
     "puppeteer": "^13.7.0"
